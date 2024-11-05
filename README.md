@@ -5,9 +5,9 @@ I am Jorge Igor let me present a little about myself
 Front-End Developer focused in JavaScript and React.Js 
 <br />
 
-- :computer: &nbsp;Connect with me on **[[LinkedIn]](https://www.linkedin.com/in/jorge-igor-gomes/)**
-- 📫 How to reach me **jorgeigor2882@gmail.com**
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+## Contact me 
+
+[![Github Badge](https://github.com/Jorgeigor)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-igor-gomes/)](https://www.linkedin.com/in/jorge-igor-gomes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jorgeigor2882@gmail.com)](mailto:Jorgeigor2882@gmail.com)
+
