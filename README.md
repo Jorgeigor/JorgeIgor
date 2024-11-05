@@ -2,9 +2,10 @@
  
 ### Hi there 👋
 ### I am Jorge Igor let me present a little about myself
+
 Front-End Developer focused in JavaScript and React.Js 
 <br />
-
+I love technology and the infinite possibilities it makes possible 💛
 ## Contact me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgeigor)](https://github.com/Jorgeigor)
