@@ -7,7 +7,7 @@ Front-End Developer focused in JavaScript and React.Js
 
 ## Contact me 
 
-[![Github Badge](https://github.com/Jorgeigor)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgeigor)](https://github.com/Jorgeigor)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-igor-gomes/)](https://www.linkedin.com/in/jorge-igor-gomes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jorgeigor2882@gmail.com)](mailto:Jorgeigor2882@gmail.com)
 
